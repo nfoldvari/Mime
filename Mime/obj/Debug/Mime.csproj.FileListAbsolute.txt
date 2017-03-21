@@ -1,0 +1,11 @@
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\bin\Debug\Mime.exe.config
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\bin\Debug\Mime.exe
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\bin\Debug\Mime.pdb
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\obj\Debug\Mime.Form1.resources
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\obj\Debug\Mime.Properties.Resources.resources
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\obj\Debug\Mime.csproj.GenerateResource.Cache
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\obj\Debug\Mime.exe
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\obj\Debug\Mime.pdb
+c:\users\normi\documents\visual studio 2013\Projects\Mime\Mime\obj\Debug\Mime.csprojResolveAssemblyReference.cache
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\Mime\bin\Debug\YetAnotherMimeMagic.dll
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\Mime\bin\Debug\YetAnotherMimeMagic.pdb

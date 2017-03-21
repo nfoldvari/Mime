@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mime", "Mime\Mime.csproj", "{859A034F-BBA1-49B0-8068-F02364E1F536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YetAnotherMimeMagic", "YetAnotherMimeMagic\YetAnotherMimeMagic.csproj", "{F33E09E1-E39D-4BD2-8DD7-82CC316CEF69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859A034F-BBA1-49B0-8068-F02364E1F536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859A034F-BBA1-49B0-8068-F02364E1F536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859A034F-BBA1-49B0-8068-F02364E1F536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859A034F-BBA1-49B0-8068-F02364E1F536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33E09E1-E39D-4BD2-8DD7-82CC316CEF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33E09E1-E39D-4BD2-8DD7-82CC316CEF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33E09E1-E39D-4BD2-8DD7-82CC316CEF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33E09E1-E39D-4BD2-8DD7-82CC316CEF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

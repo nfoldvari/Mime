@@ -1,0 +1,10 @@
+C:\Users\normi\Documents\Visual Studio 2013\Projects\YetAnotherMimeMagic\YetAnotherMimeMagic\bin\Debug\YetAnotherMimeMagic.dll
+C:\Users\normi\Documents\Visual Studio 2013\Projects\YetAnotherMimeMagic\YetAnotherMimeMagic\bin\Debug\YetAnotherMimeMagic.pdb
+C:\Users\normi\Documents\Visual Studio 2013\Projects\YetAnotherMimeMagic\YetAnotherMimeMagic\obj\Debug\YetAnotherMimeMagic.csprojResolveAssemblyReference.cache
+C:\Users\normi\Documents\Visual Studio 2013\Projects\YetAnotherMimeMagic\YetAnotherMimeMagic\obj\Debug\YetAnotherMimeMagic.dll
+C:\Users\normi\Documents\Visual Studio 2013\Projects\YetAnotherMimeMagic\YetAnotherMimeMagic\obj\Debug\YetAnotherMimeMagic.pdb
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\YetAnotherMimeMagic\bin\Debug\YetAnotherMimeMagic.dll
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\YetAnotherMimeMagic\bin\Debug\YetAnotherMimeMagic.pdb
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\YetAnotherMimeMagic\obj\Debug\YetAnotherMimeMagic.csprojResolveAssemblyReference.cache
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\YetAnotherMimeMagic\obj\Debug\YetAnotherMimeMagic.dll
+C:\Users\normi\Documents\Visual Studio 2013\Projects\Mime\YetAnotherMimeMagic\obj\Debug\YetAnotherMimeMagic.pdb
